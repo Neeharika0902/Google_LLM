@@ -1,5 +1,5 @@
-# Google_LLM
-Projects which are made using Google's LLM
+# Google_LLM : Gemini Pro Vision 
+Gemini Pro Vision is a foundation model that performs well at a variety of multimodal tasks such as visual understanding, classification, summarization, and creating content from image and video.
 
 Created Virtual Environment
 Activate the environment
